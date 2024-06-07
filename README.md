@@ -29,6 +29,6 @@ User sample data collected via (https://jsonplaceholder.typicode.com/users) api,
 
 ## Project view
 
-[![Watch the video](https://drive.google.com/file/d/1nFgxESm-xIPxqyZIV7sIBP1rX0opbZ_M/view?usp=sharing)
+(https://drive.google.com/file/d/1nFgxESm-xIPxqyZIV7sIBP1rX0opbZ_M/view?usp=sharing)
 
 
